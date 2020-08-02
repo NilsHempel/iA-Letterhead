@@ -1,12 +1,3 @@
-/* github-markdown, github-markdown-mobile are extracted using https://github.com/sindresorhus/generate-github-markdown-css */
-/* .pl styles have been removed, because they refer to prettylights syntax highlighter https://github.com/primer/github-syntax-theme-generator */
-
-@import 'github-markdown.css' screen and (min-width: 520px), print;
-
-@import 'github-markdown-mobile.css' screen and (max-width: 520px);
-
-@import 'github-markdown-night-mode.css' screen;
-
 html {
   background-color: white;
 }
