@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>de</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
 	<string>net.ia.writer.template.github</string>
 	<key>CFBundleName</key>
-	<string>GitHub</string>
+	<string>iA-Letter</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.1</string>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>1</string>
 	<key>IATemplateDocumentFile</key>
 	<string>document</string>
 	<key>IATemplateFooterHeight</key>
@@ -23,8 +23,8 @@
 	<key>IATemplateDescription</key>
 	<string>GitHub document style.</string>
 	<key>IATemplateAuthor</key>
-	<string>iA</string>
+	<string>Nils Hempel</string>
 	<key>IATemplateAuthorURL</key>
-	<string>https://github.com/</string>
+	<string>https://www.nilshempel.net</string>
 </dict>
 </plist>
