@@ -7,6 +7,8 @@
    * business correspondence
 * Output is in PDF and printed PDF.
 
+Ideally, this correspondence template can then be filled with `Content Blocks` and `[%Frontmatter]` to quickly create a letter.
+
 ## Proposed Solution
 
 Looking at the [template documentation](https://github.com/iainc/iA-Writer-Templates) the best approach isn't fully obvious to me.
@@ -19,6 +21,7 @@ The sections of a letter (as numbered) should go
 4. content - document.html
 5. footer - footer.html
 
+![](https://github.com/NilsHempel/iA-Letterhead/blob/master/Letter.png)
 
 ## Available Attributes
 
